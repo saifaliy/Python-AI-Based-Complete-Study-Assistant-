@@ -85,7 +85,7 @@ This project is licensed under the MIT License.
 
 ## 💡 Author
 
-**Kaveesha Gimhani** – [@kaveeshagim](https://github.com/kaveeshagim)
+**Saif Ali** – [@saifaliy](https://github.com/saifaliy)
 
 ## 🏷️ Tags
 
