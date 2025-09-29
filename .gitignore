@@ -1,0 +1,44 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables and credentials
+.env
+*.json
+*.key
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Logs & debug
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache & temp folders
+.streamlit/
+**/.streamlit/
+
+# Data or output files
+data/*.jpg
+data/*.png
+data/*.pdf
+data/*.txt
+models/
+
+# Torchvision MNIST dataset
+data/MNIST/
