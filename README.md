@@ -1,4 +1,4 @@
-# 📘 AI Study Assistant
+# 📘 AI Base Complete Study Assistant For you
 
 [![Built with Python](https://img.shields.io/badge/Built%20with-Python-blue.svg)](https://www.python.org/)
 [![Uses PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)](https://pytorch.org/)
